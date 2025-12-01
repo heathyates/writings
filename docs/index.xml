@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Personal Writings</title>
+<link>https://heathyates.github.io/writings/</link>
+<atom:link href="https://heathyates.github.io/writings/index.xml" rel="self" type="application/rss+xml"/>
+<description>Personal Writings by Heath Yates</description>
+<generator>quarto-1.8.26</generator>
+<lastBuildDate>Sun, 30 Nov 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Personal repos for learning</title>
+  <dc:creator>Heath Yates</dc:creator>
+  <link>https://heathyates.github.io/writings/posts/personal-repos-for-learning/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>There are two repos I am currently working on to both enhance my skills and be a resource to other learners. The first is called <a href="https://github.com/heathyates/wushu-code">wushu-code</a> which is a collection of leetcode type problems and solutions. The second is <a href="https://github.com/heathyates/wushu-scrolls">wushu-scrolls</a> which is a collection of various notes that I use as documentation as I work on my various projects.</p>
+<p>The reasons for me naming them the way I did are explained in the repos themselves, but in brief the idea is to learn technologies and practice coding. The first repo is a practice repo of coding problems. The second repo is sometihng I have put together myself with my own notes that is both my documenation, notes, and shortcuts as I work with various technologies.</p>
+
+
+
+ ]]></description>
+  <category>coding</category>
+  <guid>https://heathyates.github.io/writings/posts/personal-repos-for-learning/</guid>
+  <pubDate>Sun, 30 Nov 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://heathyates.github.io/writings/posts/personal-repos-for-learning/wushu_coding.png" medium="image" type="image/png" height="216" width="144"/>
+</item>
+</channel>
+</rss>
