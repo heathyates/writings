@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+        // You can add other folders here if needed
+    ],
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash",
+        "python.pythonPath": "/usr/bin/python3",
+        // Add any other settings you need
+    },
+    "extensions": {
+        "recommendations": [
+            "ms-python.python",
+            // Other recommended extensions
+        ]
+    }
+}

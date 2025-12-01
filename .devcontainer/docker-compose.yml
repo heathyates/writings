@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  mywritings:
+    volumes:
+      - .:/workspace
+      - ~/.ssh:/root/.ssh
+    ports:
+      - "4000:4000"
+    #command: quarto preview --host 0.0.0.0 --port 4000 --no-browser
+    command: tail -f /dev/null

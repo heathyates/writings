@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  description: "Personal Writings by Heath Yates"
+  site-url: https://heathyates.github.io/writings/
+  title: "Personal Writings"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/heathyates
+      - icon: bluesky
+        href: https://bsky.app/profile/heathyates.bsky.social
+format:
+  html:
+    theme:
+      - lumen
+      - brand
+    css: styles.css
+    include-in-header: _includes/iconify.html
+    include-after: _includes/footer.html
+
+
+

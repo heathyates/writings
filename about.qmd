@@ -1,0 +1,32 @@
+---
+title: "About"
+about:
+  template: trestles
+  image: heath_anime_profile.png
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/heathyates/
+    - icon: github
+      text: Github
+      href: https://github.com/heathyates
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/heathyates.bsky.social
+---
+
+# About
+
+Hello - I'm Heath. This is my personal space where I write about technology, programming, automation, statistics, and other random muses. 
+
+## Legal Disclaimer 
+
+The content on this site is provided for informational and educational purposes only. While I strive to ensure the accuracy and timeliness of information posted here, I make no warranties of any kind, express or implied, regarding the completeness, accuracy, reliability, suitability, or availability of any information on this site. Any reliance you place on such information is strictly at your own risk.
+
+This site does not create a professional-client relationship and nothing on this site constitutes legal, financial, medical, or other professional advice. For any matter requiring expertise or advice, you should consult a qualified professional who can evaluate your specific circumstances.
+
+I do not accept liability for any direct, indirect, incidental, consequential, or special damages arising out of or in any way connected with your access to or use of the content on this site.
+
+If you are reading this and are relying on the information for business, compliance, or other important decisions, review by qualified counsel or advisors is strongly recommended.
+
+This disclaimer is intended to be as protective and comprehensive as possible, but it is not a substitute for legal advice. If you would like a tailored disclaimer or contract language, please consult an attorney.
