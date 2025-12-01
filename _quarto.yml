@@ -4,7 +4,7 @@ project:
 
 website:
   description: "Personal Writings by Heath Yates"
-  site-url: https://heathyates.github.io/writings/
+  site-url: https://heathyates.github.io
   title: "Personal Writings"
   navbar:
     right:

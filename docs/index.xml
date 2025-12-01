@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>Personal Writings</title>
-<link>https://heathyates.github.io/writings/</link>
-<atom:link href="https://heathyates.github.io/writings/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://heathyates.github.io/</link>
+<atom:link href="https://heathyates.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Personal Writings by Heath Yates</description>
 <generator>quarto-1.8.26</generator>
 <lastBuildDate>Sun, 30 Nov 2025 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Personal repos for learning</title>
   <dc:creator>Heath Yates</dc:creator>
-  <link>https://heathyates.github.io/writings/posts/personal-repos-for-learning/</link>
+  <link>https://heathyates.github.io/posts/personal-repos-for-learning/</link>
   <description><![CDATA[ 
 
 
@@ -28,9 +28,9 @@
 
  ]]></description>
   <category>coding</category>
-  <guid>https://heathyates.github.io/writings/posts/personal-repos-for-learning/</guid>
+  <guid>https://heathyates.github.io/posts/personal-repos-for-learning/</guid>
   <pubDate>Sun, 30 Nov 2025 00:00:00 GMT</pubDate>
-  <media:content url="https://heathyates.github.io/writings/posts/personal-repos-for-learning/wushu_coding.png" medium="image" type="image/png" height="216" width="144"/>
+  <media:content url="https://heathyates.github.io/posts/personal-repos-for-learning/wushu_coding.png" medium="image" type="image/png" height="216" width="144"/>
 </item>
 </channel>
 </rss>

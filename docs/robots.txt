@@ -1,1 +1,1 @@
-Sitemap: https://heathyates.github.io/writings/sitemap.xml
+Sitemap: https://heathyates.github.io/sitemap.xml
